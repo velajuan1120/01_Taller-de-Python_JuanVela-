@@ -9,3 +9,5 @@ del lenguaje de programación Python.
 A lo largo del repositorio se presentan ejemplos, ejercicios y actividades que permiten comprender el 
 funcionamiento de las principales estructuras y herramientas del lenguaje, siguiendo una metodología 
 basada en la práctica y la documentación del proceso.
+
+Este taller fue desarrollado en databricks y para cada uno de los cuadernos es  
