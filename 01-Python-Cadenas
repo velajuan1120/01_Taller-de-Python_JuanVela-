@@ -1,0 +1,39 @@
+#Para este cuaderno ejecute cada comando por separado para obtener el resultado de cada uno de manera indivudual.
+
+# ¿Cual es el valor de la variable A después de ejecutar el siguiente código?
+A = "1"
+A
+
+# ¿Cual es el valor de la variable B después de ejecutar el siguiente código?
+B = "2"
+B
+
+#¿Cual es el valor de la variable C después de ejecutar el siguiente código?
+C = A + B
+C
+
+#En la variable D haz uso del slicing para imprimir solo los primeros tres elementos:
+D = "ABCDEFG"
+D[0:3]
+
+#Usa un valor de stride de 2 para imprimir cada segundo elemento de la cadena E:
+E = 'clocrkr1e1c1t'
+E[::2]
+
+#Imprime una barra invertida:
+print ("\\")
+
+#Convierte el mayúsculas el contenido de la variable F:
+F = "You are wrong"
+F = F.upper()
+F
+
+#En la variable G, encuentra el primer índice de la sub-cadena snow:
+G = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+G.find('snow')
+
+#En la variable G, reemplaza la sub-cadena Mary con Bob:
+G = G.replace('Mary', 'Bob')
+G
